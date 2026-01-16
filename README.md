@@ -10,7 +10,7 @@
 ---
 
 ### 🔥 Projetos em Destaque
-📌 [Controle de ativos - SprintBoot](https://github.com/A1exCyber/Controle-ativos)
+📌 [Controle de ativos - SprintBoot Java](https://github.com/A1exCyber/Controle-ativos)
 📌 [Barbershop](https://github.com/A1exCyber/BarberShop)
 🚀 [Banco de Dados em Java](https://github.com/A1exCyber/BancoDeDadosEmJava)
 
