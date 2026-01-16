@@ -21,7 +21,7 @@
 
 ---
 
-### 🎓 Certificação
+### 🎓 Curso de Cybersec
 
 ![introduction-to-cybersecurity](https://github.com/user-attachments/assets/6dc11e02-c827-4d70-aa47-195262c70edc)
 
