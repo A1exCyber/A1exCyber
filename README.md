@@ -21,9 +21,20 @@
 
 ---
 
-### 🎓 Curso de Cybersec
+### 🎓 Cursos na Cisco
 
-![introduction-to-cybersecurity](https://github.com/user-attachments/assets/6dc11e02-c827-4d70-aa47-195262c70edc)
+<!--![introduction-to-cybersecurity](https://github.com/user-attachments/assets/6dc11e02-c827-4d70-aa47-195262c70edc)-->
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/6dc11e02-c827-4d70-aa47-195262c70edc" width="200" alt="introduction-to-cybersecurity">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/03945040-47fb-407d-b47f-408244d08591" width="200" alt="Python Essentials 1">
+    </td>
+  </tr>
+</table>
 
-🔗 Certificado:
-[https://www.credly.com/badges/dc657949-403a-4ecb-a964-2ac5f84a54bb/public_url](https://www.credly.com/badges/dc657949-403a-4ecb-a964-2ac5f84a54bb/public_url)
+🔗 Certificados: <br>
+[https://www.credly.com/badges/dc657949-403a-4ecb-a964-2ac5f84a54bb/public_url](https://www.credly.com/badges/dc657949-403a-4ecb-a964-2ac5f84a54bb/public_url) <br>
+https://www.credly.com/badges/585a37db-9643-4c68-a258-ac069b8b620f
