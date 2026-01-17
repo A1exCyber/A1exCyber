@@ -3,7 +3,7 @@
 ## Eu sou o Alex!
 
 🎓 Estudante de Ciência da Computação <br>
-💻 Desenvolvedor Full Stack | Java | Python | JavaScript
+💻 Desenvolvedor Full Stack | Java | Python | JavaScript <br>
 🔐 Interesse em Cybersecurity <br>
 💻 Amo mexer com Linux.
    
