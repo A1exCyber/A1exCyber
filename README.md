@@ -2,10 +2,11 @@
 
 ## Eu sou o Alex!
 
-🎓 Estudante de Ciência da Computação
+🎓 Estudante de Ciência da Computação <br>
 💻 Desenvolvedor Full Stack | Java | Python | JavaScript
-🔐 Interesse em Cybersecurity
-🚗 Apaixonado por carros antigos
+🔐 Interesse em Cybersecurity <br>
+💻 Amo mexer com Linux.
+   
 
 ---
 
