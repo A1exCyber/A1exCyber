@@ -5,7 +5,7 @@
 🎓 Estudante de Ciência da Computação <br>
 💻 Desenvolvedor Full Stack | Java | Python | JavaScript <br>
 🔐 Interesse em Cybersecurity <br>
-💻 Amo mexer com Linux.
+💻 Love Linux.
    
 
 ---
