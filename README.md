@@ -1,4 +1,4 @@
-# Olá! 👋 Bem-vindo ao meu GitHub!
+# Olá! Bem-vindo ao meu GitHub!
 
 ## Eu sou o Alex!
 
